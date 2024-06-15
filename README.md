@@ -1,5 +1,13 @@
 # ton-test-contract
 
+
+## QUICK START
+Create a Smart Contract 
+
+`npm i -g hygen`
+
+`hygen generate contract contractName`
+
 ## Project structure
 
 -   `contracts` - source code of all the smart contracts of the project and their dependencies.
@@ -7,7 +15,7 @@
 -   `tests` - tests for the contracts.
 -   `scripts` - scripts used by the project, mainly the deployment scripts.
 
-## How to use
+## OTHER CLIS
 
 ### Build
 
